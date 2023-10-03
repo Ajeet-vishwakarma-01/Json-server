@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "email": "Ironman@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "asdfg",
+      "email": "asdf@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "werty",
+      "email": "werty@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "uhgf",
+      "email": "uygfd@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "nbvfd",
+      "email": "mnbvc@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "ytfd",
+      "email": "ytrfd@gmail.com"
+    }
+  ]
+}
